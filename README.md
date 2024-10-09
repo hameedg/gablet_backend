@@ -38,8 +38,8 @@ To use Frontend Clone Website, follow these steps:
 2. Create a .env file if not existing,
    and add,
     ```
-   MONGO_URI =
-   PORT = 
+   MONGO_URI=mongodb+srv://crapjank:lZ7toooJPPKlmdyi@hameedtoplevelcluster.sk633.mongodb.net/?retryWrites=true&w=majority&appName=gablet
+   PORT=5000
    ```
 4. Open your web browser and visit `http://localhost:5000/api/properties` in your postman
 
